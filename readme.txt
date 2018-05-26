@@ -3,4 +3,6 @@ git is free softwaredsdad sadsada sdasdas
 
 old
 
-new 
+new
+
+bug fixed 
